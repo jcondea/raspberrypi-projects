@@ -26,6 +26,7 @@ Cambia el brillo de un LED.
 
 ## RPi-3-servo
 ### Descripción
+Controla un servo motor.
 
 ### Circuito
 
