@@ -2,14 +2,14 @@ Proyectos para Raspberry Pi
 ===========================
 
 ## Tabla de contenido
-- [RPi-1-blink.py](#RPi-1-blink.py)
-- [RPi-2-bright.py](#RPi-2-bright.py)
-- [RPi-3-servo.py](#RPi-3-servo.py)
-- [RPi-4-buttons.py](#RPi-4-buttons.py)
-- [RPi-5-buttonLED.py](#RPi-5-buttonLED.py)
-- [RPi-6-buttonLEDDimable.py](#RPi-6-buttonLEDDimable.py)
-- [RPi-7-display7S1D.py](#RPi-7-display7S1D.py)
-- [RPi-9-display7S1DKeaypad.py](#RPi-9-display7S1DKeaypad.py)
+- [RPi-1-blink](#RPi-1-blink)
+- [RPi-2-bright](#RPi-2-bright)
+- [RPi-3-servo](#RPi-3-servo)
+- [RPi-4-buttons](#RPi-4-buttons)
+- [RPi-5-buttonLED](#RPi-5-buttonLED)
+- [RPi-6-buttonLEDDimable](#RPi-6-buttonLEDDimable)
+- [RPi-7-display7S1D](#RPi-7-display7S1D)
+- [RPi-9-display7S1DKeaypad](#RPi-9-display7S1DKeaypad)
 - [RPi-10-display7S4D](#RPi-10-display7S4D)
 
 ## RPi-1-blink.py
