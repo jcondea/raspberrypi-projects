@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 ########################################################################
-# Filename    : Keypad.py
+# Filename    : RPi-1-blink.py
 # Description : Prende y apaga un LED por [n] veces. 
 # Author      : jcondea
 # modification: 2020/10/06
