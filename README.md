@@ -33,12 +33,13 @@ Proyectos para Raspberry Pi
 ### Descripción
 
 ### Circuito
-![Texto para](https://github.com/jcondea/raspberrypi-projects/raw/main/image/IMG_20200928_134143.jpg)
+![](https://github.com/jcondea/raspberrypi-projects/raw/main/image/IMG_20200928_134143.jpg)
 
 ## RPi-7-display7S1D.py
 ### Descripción
 
 ### Circuito
+![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_120134.jpg)
 
 ## RPi-9-display7S1DKeaypad.py
 ### Descripción
