@@ -34,7 +34,7 @@ while(1):                  # Loop Forever
 		bright=bright*2                # Double Brightness
 		if bright>100:                 # Keep Brightness at or below 100%
 			bright=100
-			print "You are at Full Bright"
+			print ("You are at Full Bright")
 		pwm1.ChangeDutyCycle(bright)  # Apply new brightness
 		pwm2.ChangeDutyCycle(bright)  # Apply new brightness
 		sleep(.25)                    # Pause
