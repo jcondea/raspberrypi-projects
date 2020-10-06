@@ -38,6 +38,7 @@ Controla dos botones.
 
 ## RPi-5-buttonLED
 ### Descripción
+Controla dos LEDS con dos botones.
 
 ### Circuito
 
