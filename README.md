@@ -20,6 +20,7 @@ Prende y apaga un LED por [n] veces.
 
 ## RPi-2-bright
 ### Descripción
+Cambia el brillo de un LED.
 
 ### Circuito
 
