@@ -44,6 +44,7 @@ Controla dos LEDS con dos botones.
 
 ## RPi-6-buttonLEDDimable
 ### Descripción
+Controla el brillo de dos LEDS con dos botones.
 
 ### Circuito
 ![](https://github.com/jcondea/raspberrypi-projects/raw/main/image/IMG_20200928_134143.jpg)
