@@ -33,6 +33,7 @@ Proyectos para Raspberry Pi
 ### Descripción
 
 ### Circuito
+![]()
 
 ## RPi-7-display7S1D.py
 ### Descripción
