@@ -14,8 +14,8 @@ GPIO.setup(button1,GPIO.IN,pull_up_down=GPIO.PUD_UP)
 GPIO.setup(button2,GPIO.IN,pull_up_down=GPIO.PUD_UP)
 while(1):
         if GPIO.input(button1)==0:
-                print "Button 1 Pressed"
+                print ("Button 1 Pressed")
                 sleep(.1)
         if  GPIO.input(button2)==0:
                 sleep(.1)
-                print "Button 2 Pressed"
+                print ("Button 2 Pressed")
