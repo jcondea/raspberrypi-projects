@@ -45,7 +45,9 @@ Proyectos para Raspberry Pi
 ### Descripción
 
 ### Circuito
+####Inicial
 ![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_144016.jpg)
+####Optimizado
 ![optimizado](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_170226.jpg)
 
 ## RPi-10-display7S4D.py
