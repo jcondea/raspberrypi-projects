@@ -51,6 +51,7 @@ Controla el brillo de dos LEDS con dos botones.
 
 ## RPi-7-display7S1D
 ### Descripción
+Controla un Display de 7 Segmentos y 1 digito. 
 
 ### Circuito
 ![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_120134.jpg)
