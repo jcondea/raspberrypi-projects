@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+########################################################################
+# Filename    : RPi-6-buttonLEDDimable.py
+# Description : Controla el brillo de dos LEDS con dos botones. 
+# Author      : jcondea
+# modification: 2020/10/06
+########################################################################
 from time import sleep  # Library will let us put in delays
 import RPi.GPIO as GPIO # Import the RPi Library for GPIO pin control
 GPIO.setmode(GPIO.BOARD)# We want to use the physical pin number scheme
