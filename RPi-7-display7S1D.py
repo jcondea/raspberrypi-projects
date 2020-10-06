@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+########################################################################
+# Filename    : RPi-7-display7S1D.py
+# Description : Controla un Display de 7 Segmentos y 1 digito. 
+# Author      : jcondea
+# modification: 2020/10/06
+########################################################################
 import RPi.GPIO as GPIO
 from time import sleep
 def print0():
