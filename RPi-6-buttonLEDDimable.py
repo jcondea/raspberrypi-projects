@@ -28,7 +28,7 @@ while(1):                  # Loop Forever
 		pwm1.ChangeDutyCycle(bright)   # Apply new brightness
 		pwm2.ChangeDutyCycle(bright)   # Apply new brightness
 		sleep(.25)                     # Briefly Pause
-		print "New Brightness is: ",bright # Notify User of Brightness
+		print ("New Brightness is: ",bright) # Notify User of Brightness
 	if GPIO.input(button2)==0:             # If button 2 is pressed
 		print ("Button 2 was Pressed") # Notify User
 		bright=bright*2                # Double Brightness
@@ -38,4 +38,4 @@ while(1):                  # Loop Forever
 		pwm1.ChangeDutyCycle(bright)  # Apply new brightness
 		pwm2.ChangeDutyCycle(bright)  # Apply new brightness
 		sleep(.25)                    # Pause
-		print "New Brightness is: ",bright #Notify User of Brightness
+		print ("New Brightness is: ",bright) #Notify User of Brightness
