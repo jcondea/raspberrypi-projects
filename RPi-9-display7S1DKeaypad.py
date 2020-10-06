@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+########################################################################
+# Filename    : RPi-9-display7S1DKeypad.py
+# Description : Controla un Display de 7 Segmentos y 1 digito con un Keypad. 
+# Author      : jcondea
+# modification: 2020/10/06
+########################################################################
 import RPi.GPIO as GPIO
 import Keypad       #import module Keypad
 from time import sleep
