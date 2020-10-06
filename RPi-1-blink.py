@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+########################################################################
+# Filename    : Keypad.py
+# Description : Prende y apaga un LED por [n] veces. 
+# Author      : jcondea
+# modification: 2020/10/06
+########################################################################
 import time
 import RPi.GPIO as GPIO
 #GPIO.setmode(GPIO.BOARD)
