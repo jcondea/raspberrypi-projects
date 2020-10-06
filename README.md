@@ -52,3 +52,4 @@ Proyectos para Raspberry Pi
 ### Descripción
 
 ### Circuito
+![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201003_142351.jpg)
