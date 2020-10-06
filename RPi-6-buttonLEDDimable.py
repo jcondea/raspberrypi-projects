@@ -23,14 +23,14 @@ pwm2.start(0)              # Start PWM at 0% duty cycle (off)
 bright=1                   # Set initial brightness to 1%
 while(1):                  # Loop Forever
 	if GPIO.input(button1)==0:             #If left button is pressed
-		print "Button 1 was Pressed"   # Notify User
+		print ("Button 1 was Pressed") # Notify User
 		bright=bright/2.               # Set brightness to half
 		pwm1.ChangeDutyCycle(bright)   # Apply new brightness
 		pwm2.ChangeDutyCycle(bright)   # Apply new brightness
 		sleep(.25)                     # Briefly Pause
 		print "New Brightness is: ",bright # Notify User of Brightness
 	if GPIO.input(button2)==0:             # If button 2 is pressed
-		print "Button 2 was Pressed"   # Notify User
+		print ("Button 2 was Pressed") # Notify User
 		bright=bright*2                # Double Brightness
 		if bright>100:                 # Keep Brightness at or below 100%
 			bright=100
