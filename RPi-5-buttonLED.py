@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+########################################################################
+# Filename    : RPi-5-buttonLED.py
+# Description : Controla dos LEDS con dos botones. 
+# Author      : jcondea
+# modification: 2020/10/06
+########################################################################
 from time import sleep     # Import sleep Library
 import RPi.GPIO as GPIO    # Import GPIO Library 
 GPIO.setmode(GPIO.BOARD)   # Use Physical Pin Numbering Scheme
@@ -13,7 +20,7 @@ BS1=False                  # Set Flag BS1 to indicate LED is initially off
 BS2=False                  # Set Flag BS2 to indicate LED is initially off
 while(1):                  # Create an infinite Loop
         if GPIO.input(button1)==0:            # Look for button 1 press
-                print "Button 1 Was Pressed:"
+                print ("Button 1 Was Pressed:")
                 if BS1==False:                # If the LED is off
                         GPIO.output(LED1,True)# turn it on
                         BS1=True              # Set Flag to show LED1 is now On 
@@ -23,7 +30,7 @@ while(1):                  # Create an infinite Loop
                         BS1=False               # Set Flag to show LED1 is now Off
                         sleep(.5)
         if GPIO.input(button2)==0: #Repeat above for LED 2 and button 2
-                print "Button 2 Was Pressed:"
+                print ("Button 2 Was Pressed:")
                 if BS2==False:
                         GPIO.output(LED2,True)
                         BS2=True
