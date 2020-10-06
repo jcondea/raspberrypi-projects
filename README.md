@@ -33,7 +33,7 @@ Proyectos para Raspberry Pi
 ### Descripción
 
 ### Circuito
-![]()
+![](https://github.com/jcondea/raspberrypi-projects/raw/main/image/IMG_20200928_134143.jpg)
 
 ## RPi-7-display7S1D.py
 ### Descripción
