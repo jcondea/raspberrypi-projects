@@ -38,3 +38,13 @@ Proyectos para Raspberry Pi
 ### Descripción
 
 ### Circuito
+
+## RPi-9-display7S1DKeaypad.py
+### Descripción
+
+### Circuito
+
+## RPi-10-display7S4D.py
+### Descripción
+
+### Circuito
