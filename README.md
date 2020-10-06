@@ -10,7 +10,7 @@ Proyectos para Raspberry Pi
 - [RPi-6-buttonLEDDimable.py](#RPi-6-buttonLEDDimable.py)
 - [RPi-7-display7S1D.py](#RPi-7-display7S1D.py)
 - [RPi-9-display7S1DKeaypad.py](#RPi-9-display7S1DKeaypad.py)
-- [RPi-10-display7S4D.py](#RPi-10-display7S4D.py)
+- [RPi-10-display7S4D](#RPi-10-display7S4D)
 
 ## RPi-1-blink.py
 ### Descripción
@@ -58,7 +58,7 @@ Proyectos para Raspberry Pi
 #### Optimizado
 ![optimizado](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_170226.jpg)
 
-## RPi-10-display7S4D.py
+## RPi-10-display7S4D
 ### Descripción
 
 ### Circuito
