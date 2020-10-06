@@ -32,6 +32,7 @@ Controla un servo motor.
 
 ## RPi-4-buttons
 ### Descripción
+Controla dos botones.
 
 ### Circuito
 
