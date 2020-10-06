@@ -15,9 +15,9 @@ y1=3.1
 x2=180
 y2=12.3
 for i in range(0,20):
-	desiredAngle=int(input("Angulo del servo? 0-180="))
-        m=(y2-y1)/(x2-x1)
-	DC=m*(desiredAngle-x1)+y1
-	pwm.ChangeDutyCycle(DC)
+    desiredAngle=int(input("Angulo del servo? 0-180="))
+    m=(y2-y1)/(x2-x1)
+    DC=m*(desiredAngle-x1)+y1
+    pwm.ChangeDutyCycle(DC)
 pwm.stop()
 GPIO.cleanup()
