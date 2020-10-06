@@ -68,6 +68,7 @@ Controla un Display de 7 Segmentos y 1 digito con un Keypad.
 
 ## RPi-10-display7S4D
 ### Descripción
+Controla un Display de 7 Segmentos y 4 digitos.
 
 ### Circuito
 ![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201003_142351.jpg)
