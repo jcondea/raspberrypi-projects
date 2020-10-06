@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+########################################################################
+# Filename    : RPi-4-buttons.py
+# Description : Controla dos botones. 
+# Author      : jcondea
+# modification: 2020/10/06
+########################################################################
 from time import sleep
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
