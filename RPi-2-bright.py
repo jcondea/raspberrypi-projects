@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+########################################################################
+# Filename    : RPi-2-bright.py
+# Description : Cambia el brillo de un LED. 
+# Author      : jcondea
+# modification: 2020/10/06
+########################################################################
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
 red=11
