@@ -14,6 +14,7 @@ Proyectos para Raspberry Pi
 
 ## RPi-1-blink
 ### Descripción
+Prende y apaga un LED por [n] veces. 
 
 ### Circuito
 
