@@ -9,7 +9,7 @@ Proyectos para Raspberry Pi
 - [RPi-5-buttonLED](#RPi-5-buttonLED)
 - [RPi-6-buttonLEDDimable](#RPi-6-buttonLEDDimable)
 - [RPi-7-display7S1D](#RPi-7-display7S1D)
-- [RPi-9-display7S1DKeaypad](#RPi-9-display7S1DKeaypad)
+- [RPi-9-display7S1DKeypad](#RPi-9-display7S1DKeypad)
 - [RPi-10-display7S4D](#RPi-10-display7S4D)
 
 ## RPi-1-blink
@@ -56,8 +56,9 @@ Controla un Display de 7 Segmentos y 1 digito.
 ### Circuito
 ![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_120134.jpg)
 
-## RPi-9-display7S1DKeaypad
+## RPi-9-display7S1DKeypad
 ### Descripción
+Controla un Display de 7 Segmentos y 1 digito con un Keypad.
 
 ### Circuito
 #### Inicial
