@@ -63,6 +63,7 @@ Controla un Display de 7 Segmentos y 1 digito con un Keypad.
 ### Circuito
 #### Inicial
 <img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_144016.jpg" width="100" height="100">
+
 #### Optimizado
 <img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_170226.jpg" width="100" height="100">
 
