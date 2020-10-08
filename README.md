@@ -54,7 +54,7 @@ Controla el brillo de dos LEDS con dos botones.
 Controla un Display de 7 Segmentos y 1 digito. 
 
 ### Circuito
-![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_120134.jpg)
+<img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_120134.jpg" width="100" height="100">
 
 ## RPi-9-display7S1DKeypad
 ### Descripción
@@ -62,13 +62,13 @@ Controla un Display de 7 Segmentos y 1 digito con un Keypad.
 
 ### Circuito
 #### Inicial
-![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_144016.jpg)
+<img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_144016.jpg" width="100" height="100">
 #### Optimizado
-![optimizado](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_170226.jpg)
+<img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20200929_170226.jpg" width="100" height="100">
 
 ## RPi-10-display7S4D
 ### Descripción
 Controla un Display de 7 Segmentos y 4 digitos.
 
 ### Circuito
-![](https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201003_142351.jpg)
+<img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201003_142351.jpg" width="100" height="100">
