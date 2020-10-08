@@ -47,7 +47,7 @@ Controla dos LEDS con dos botones.
 Controla el brillo de dos LEDS con dos botones.
 
 ### Circuito
-![](https://github.com/jcondea/raspberrypi-projects/raw/main/image/IMG_20200928_134143.jpg)
+<img src="https://github.com/jcondea/raspberrypi-projects/raw/main/image/IMG_20200928_134143.jpg" width="100" height="100">
 
 ## RPi-7-display7S1D
 ### Descripción
