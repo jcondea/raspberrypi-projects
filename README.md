@@ -80,4 +80,4 @@ Controla un Display de 7 Segmentos y 4 digitos.
 Prende en secuencia y luego apaga en secuencia los 10 segmentos de la barra.
 
 ### Circuito
-<img src="" width="100" height="100">
+<img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201010_183943.jpg" width="100" height="100">
