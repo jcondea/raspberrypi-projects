@@ -73,3 +73,10 @@ Controla un Display de 7 Segmentos y 4 digitos.
 
 ### Circuito
 <img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201003_142351.jpg" width="100" height="100">
+
+## RPi-11-10SegmentLEDBar
+### Descripción
+Prende en secuencia y luego apaga en secuencia los 10 segmentos de la barra.
+
+### Circuito
+<img src="" width="100" height="100">
