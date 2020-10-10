@@ -11,6 +11,7 @@ Proyectos para Raspberry Pi
 - [RPi-7-display7S1D](#RPi-7-display7S1D)
 - [RPi-9-display7S1DKeypad](#RPi-9-display7S1DKeypad)
 - [RPi-10-display7S4D](#RPi-10-display7S4D)
+- [RPi-11-10SegmentLEDBar](RPi-11-10SegmentLEDBar)
 
 ## RPi-1-blink
 ### Descripción
