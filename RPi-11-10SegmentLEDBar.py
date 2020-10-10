@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 ########################################################################
 # Filename    : RPi-11-10SegmentLEDBar.py
-# Description : Prende en secuencia y luego apaga en secuancia los 10 segmentos de la barra. 
+# Description : Prende en secuencia y luego apaga en secuencia los 10 segmentos de la barra. 
 # Author      : jcondea
 # modification: 2020/10/10
 ########################################################################
