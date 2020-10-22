@@ -8,7 +8,7 @@
 import time
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BOARD)
-pin1=7
+pin1=7 
 pin2=11
 pin3=12
 pin4=13
