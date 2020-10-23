@@ -85,5 +85,6 @@ Prende en secuencia y luego apaga en secuencia los 10 segmentos de la barra.
 
 ## RPi-12-8X8LEDMatrix
 ### Descripción
+Imprime caracteres en una matriz led de 8X8.
 
 ### Circuito
