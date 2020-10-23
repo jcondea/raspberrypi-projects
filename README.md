@@ -12,6 +12,7 @@ Proyectos para Raspberry Pi
 - [RPi-9-display7S1DKeypad](#RPi-9-display7S1DKeypad)
 - [RPi-10-display7S4D](#RPi-10-display7S4D)
 - [RPi-11-10SegmentLEDBar](#RPi-11-10SegmentLEDBar)
+- [RPi-12-8X8LEDMatrix](#RPi-12-8X8LEDMatrix)
 
 ## RPi-1-blink
 ### Descripción
@@ -81,3 +82,8 @@ Prende en secuencia y luego apaga en secuencia los 10 segmentos de la barra.
 
 ### Circuito
 <img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201010_183943.jpg" width="100" height="100">
+
+## RPi-12-8X8LEDMatrix
+### Descripción
+
+### Circuito
