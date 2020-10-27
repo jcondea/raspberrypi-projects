@@ -88,3 +88,4 @@ Prende en secuencia y luego apaga en secuencia los 10 segmentos de la barra.
 Imprime caracteres en una matriz led de 8X8.
 
 ### Circuito
+<img src="https://github.com/jcondea/raspberrypi-projects/blob/main/image/IMG_20201027_123337.jpg" width="100" height="100">
